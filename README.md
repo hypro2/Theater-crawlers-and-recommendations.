@@ -19,3 +19,5 @@
 파이썬 판다스, 넘파이 라이브러리를 통해 구현 
 
 ![image](https://user-images.githubusercontent.com/84513149/152640513-ac84bb3a-aa6f-46f5-ad51-8564fcbf3380.png)
+![image](https://user-images.githubusercontent.com/84513149/152640540-68229519-a78d-40e7-9fc2-a1b580bdc293.png)
+
