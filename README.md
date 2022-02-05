@@ -18,3 +18,4 @@
 ## 연극 추천 프로그램 구현
 파이썬 판다스, 넘파이 라이브러리를 통해 구현 
 
+![image](https://user-images.githubusercontent.com/84513149/152640513-ac84bb3a-aa6f-46f5-ad51-8564fcbf3380.png)
